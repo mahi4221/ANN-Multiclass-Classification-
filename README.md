@@ -17,8 +17,8 @@ The dataset is represented in tabular form, where each image is described by its
 - **Target:** `label`
 - **Model:** Artificial Neural Network
 
-## 📊 Dataset
-
+## 📊 Dataset**
+**LINK: https://www.kaggle.com/datasets/zalando-research/fashionmnist**
 The notebook works with separate training and testing datasets.
 
 ### Original Dataset Size
