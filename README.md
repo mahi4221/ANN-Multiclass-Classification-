@@ -234,7 +234,3 @@ The README documents the dataset characteristics and workflow supported by the n
 B.Tech – Computer Science Engineering (AI & ML)
 
 GitHub: https://github.com/mahi4221
-
----
-
-⭐ Feel free to experiment with the ANN architecture, preprocessing steps, and training parameters to improve multiclass digit classification performance.
